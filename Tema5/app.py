@@ -15,7 +15,7 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "ads_db",
     "user": "postgres",
-    "password": "1111",  # пароль МАЄ бути РЯДКОМ, заміни на свій
+    "password": "1111",  
 }
 
 
